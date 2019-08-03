@@ -1,0 +1,4 @@
+site_name: context-drf
+site_description: An implementation of the Context data standard for Django REST Framework
+repo_url: https://github.com/DingoEatingFuzz/context-drf
+site_dir: html
